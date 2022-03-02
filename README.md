@@ -1,2 +1,2 @@
-# Base Template Advance
-Base template for repositories of C++
+# SOLID - Liscov's Substitution Principle
+Basic example
